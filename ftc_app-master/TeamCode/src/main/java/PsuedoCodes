@@ -1,0 +1,10 @@
+ROBOT STARTS IN BUILDING ZONE
+                     Move to the set of stones located on your side of the feild
+                     Scan the first stone using the TensorFlow model
+                     Use a loop until first skyStone is found
+                     Get skyStone and move it to the building zone
+                     Push foundation to building site
+                     Scan for time
+                     If time is less than 15 sec then go get another skyStone
+                     Move skyStone back to building zone
+                     Park under the bridge
